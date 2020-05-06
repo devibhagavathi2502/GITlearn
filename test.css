@@ -1,6 +1,10 @@
 body{
 	background-color: aqua;
 }
+h1{
+	font-size: 75px;
+	color: red;
+}
 h4{
 	font-style: italic;
 	font-size: 50px;
